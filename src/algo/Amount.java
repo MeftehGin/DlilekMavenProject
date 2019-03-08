@@ -4,6 +4,7 @@ public class Amount {
 	
 	private String value;
 	private boolean used;
+	private boolean used1;
 	private int index;
 	private int group;
 	
